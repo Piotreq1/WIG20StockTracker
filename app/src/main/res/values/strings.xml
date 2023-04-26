@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaGpwApp</string>
+    <string name="title">Kursy akcji spółek na Giełdzie Papierów Wartościowych</string>
+    <string name="lista_sp_btn">Lista Spółek</string>
+</resources>
